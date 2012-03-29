@@ -29,6 +29,12 @@
             <artifactId>mod02</artifactId>
             <version>${project.version}</version>
         </dependency>
+
+		<dependency>
+			<groupId>com.ocpsoft</groupId>
+			<artifactId>prettyfaces-jsf2</artifactId>
+			<version>3.3.3</version>
+		</dependency>
     </dependencies>
     <build>
         <finalName>modwebapp</finalName>
